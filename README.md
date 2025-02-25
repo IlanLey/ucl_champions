@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Video Walkthrough](../ucl-champions/public/ucl.gif "Video Walkthrough")
+![Video Walkthrough](./public/ucl.gif "Video Walkthrough")
 
 GIF created with LICEcap
 
