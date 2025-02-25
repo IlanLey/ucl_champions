@@ -2,7 +2,7 @@
 
 Submitted by: **Ilan Leybman**
 
-This web app: **insert description**
+This web app: Shows the Greatest Team UCL History Along with a link to their dedicated Wiki Page.
 
 Time spent: 3 hours spent in total
 
@@ -27,7 +27,7 @@ GIF created with LICEcap
 
 ## Notes
 
-Figuring out how to incorporate map() function
+Figuring out how to incorporate map() function alongside HTML
 
 ## License
 
